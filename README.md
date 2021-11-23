@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HuSTLeR1709
+- 👋 Hi, I’m HuSTLeR
 - 👀 I’m interested in creating web pages and blogging.
-- 🌱 I’m currently learning ...c,c++ and java
+- 🌱 I’m currently learning c,c++ and java
 - 💞️ I’m looking to collaborate on creating websites creating and blogging.
 - 📫 Contact me...
 
