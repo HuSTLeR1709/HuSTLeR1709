@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nabhjeet Katiyar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HuSTLeR1709&label=Profile%20views&color=0e75b6&style=flat" alt="hustler1709" /> </p>
+
 - 📫 How to reach me **nabhjeetkatiyar3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
