@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabhjeet Katiyar</h1>
-<h5 align="center">Hello, I'm Nabhjeet Katiyar, a dynamic
+<h4 align="center">Hello, I'm Nabhjeet Katiyar, a dynamic
  full-stack developer specializing in the
  MERN (MongoDB, Express.js, React,
  Node.js) stack. With a strong foundation
@@ -9,7 +9,7 @@
  robust and scalable applications, where I
  leverage my comprehensive skill set to
  seamlessly integrate front-end and back
-end technologies.</h5>
+end technologies.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustler1709&label=Profile%20views&color=0e75b6&style=flat" alt="hustler1709" /> </p>
 
