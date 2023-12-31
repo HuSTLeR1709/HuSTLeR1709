@@ -13,8 +13,7 @@ end technologies.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustler1709&label=Profile%20views&color=0e75b6&style=flat" alt="hustler1709" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/hustler1709=ryo-ma" alt="hustler1709" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/hustler1709" alt="hustler1709" /></a> </p>
 
 - 📫 How to reach me **nabhjeetkatiyar3@gmail.com**
 
